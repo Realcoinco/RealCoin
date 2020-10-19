@@ -1,16 +1,16 @@
 {
-    "name": "real-token",
+    "name": "Real Coin",
     "version": "0.1.0",
-    "description": "REAL token",
+    "description": "REAL COIN",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/RealEstateAssetLedger/real_contract"
+        "url": "git+https://github.com/Realcoinco/real_contract"
     },
     "license": "GPL-3.0",
     "bugs": {
-        "url": "https://github.com/RealEstateAssetLedger/real_contract/issues"
+        "url": "https://github.com/Realcoinco/real_contract/issues"
     },
-    "homepage": "https://github.com/RealEstateAssetLedger/real_contract",
+    "homepage": "https://github.com/Realcoinco/real_contract",
     "devDependencies": {
         "async": "^2.4.0",
         "bignumber.js": "^4.0.2",
@@ -28,5 +28,5 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "REAL Estate Assed Ledger"
+    "author": "REAL COIN"
 }
