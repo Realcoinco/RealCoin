@@ -4,13 +4,13 @@
     "description": "REAL COIN",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Realcoinco/real_contract"
+        "url": "git+https://github.com/Realcoinco/RealCoin"
     },
     "license": "GPL-3.0",
     "bugs": {
-        "url": "https://github.com/Realcoinco/real_contract/issues"
+        "url": "https://github.com/Realcoinco/RealCoin/issues"
     },
-    "homepage": "https://github.com/Realcoinco/real_contract",
+    "homepage": "https://github.com/Realcoinco/RealCoin",
     "devDependencies": {
         "async": "^2.4.0",
         "bignumber.js": "^4.0.2",
