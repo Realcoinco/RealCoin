@@ -1,4 +1,4 @@
-# REAL Token
+# REAL Coin
 
 The MiniMeToken contract is a standard ERC20 token with extra functionality:
 
