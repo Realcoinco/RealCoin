@@ -8,7 +8,7 @@ Multisig wallet address: 0xXXXXX
 
 *****************************
 
-Crowdsale rate: 200000000000
+Crowdsale rate: 20000000000
 
 Crowdsale start time: 2020-11-01T20:20 (GMT - 5)
 
